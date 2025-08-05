@@ -1,0 +1,15 @@
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\bin\Debug\net9.0\projeto-final-ada2-CSharp.exe
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\bin\Debug\net9.0\projeto-final-ada2-CSharp.deps.json
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\bin\Debug\net9.0\projeto-final-ada2-CSharp.runtimeconfig.json
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\bin\Debug\net9.0\projeto-final-ada2-CSharp.dll
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\bin\Debug\net9.0\projeto-final-ada2-CSharp.pdb
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\obj\Debug\net9.0\projeto-final-ada2-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\obj\Debug\net9.0\projeto-final-ada2-CSharp.AssemblyInfoInputs.cache
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\obj\Debug\net9.0\projeto-final-ada2-CSharp.AssemblyInfo.cs
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\obj\Debug\net9.0\projeto-final-ada2-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\obj\Debug\net9.0\projeto-final-ada2-CSharp.sourcelink.json
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\obj\Debug\net9.0\projeto-final-ada2-CSharp.dll
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\obj\Debug\net9.0\refint\projeto-final-ada2-CSharp.dll
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\obj\Debug\net9.0\projeto-final-ada2-CSharp.pdb
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\obj\Debug\net9.0\projeto-final-ada2-CSharp.genruntimeconfig.cache
+C:\Users\terci\projetos\projeto-final-ada2-CSharp\obj\Debug\net9.0\ref\projeto-final-ada2-CSharp.dll
